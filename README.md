@@ -1,4 +1,4 @@
-https://github.com/MicrosoftDocs/pipelines-java
+[![Build Status](https://dev.azure.com/bp-customers-products/Bio%20and%20LC%20Modernisation/_apis/build/status/wissallaassiliabouchama.pipelines-java?branchName=master)](https://dev.azure.com/bp-customers-products/Bio%20and%20LC%20Modernisation/_build/latest?definitionId=194&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
